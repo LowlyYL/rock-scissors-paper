@@ -1,2 +1,2 @@
 # rock-scissors-paper
-[Hi](#https://qna.habr.com/q/409711)
+[Hi](https://qna.habr.com/q/409711)
